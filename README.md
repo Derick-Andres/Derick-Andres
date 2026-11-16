@@ -1,5 +1,7 @@
 # Oi, eu sou o Derick 👋
 
+**🇧🇷 Português** · [🇺🇸 English](./README.en.md)
+
 ![Desenvolvimento Full Stack, backend, infraestrutura, redes e DevOps](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1300&color=65A30DFC&width=500&lines=Desenvolvimento+Full+Stack;Backend+e+infraestrutura;Redes+de+computadores+e+DevOps)
 
 Trabalho com desenvolvimento web e gosto de entender o que acontece depois que o código sai do editor: como a aplicação sobe, como os serviços se comunicam e como investigar quando algo falha.
