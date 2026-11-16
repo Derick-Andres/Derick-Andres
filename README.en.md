@@ -2,7 +2,7 @@
 
 [🇧🇷 Português](./README.md) · **🇺🇸 English**
 
-![Full-stack development, backend, infrastructure, networking and DevOps](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1300&color=8C12FC&width=500&lines=Full-Stack+Development;Backend+and+Infrastructure;Networking+and+DevOps)
+![Full-stack development, backend, infrastructure, networking and DevOps](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1300&color=65A30DFC&width=500&lines=Full-Stack+Development;Backend+and+Infrastructure;Networking+and+DevOps)
 
 **Full-Stack Developer | Backend and Infrastructure**
 
