@@ -28,7 +28,7 @@ Tenho experiência com **ERP, PDV e integrações fiscais**, além da implantaç
 
 - **Redes de computadores** · DNS, VPNs, proxies reversos e diagnóstico de conectividade entre serviços.
 - **DevOps** · Automação de deploy, CI/CD e operação de aplicações em ambientes Linux.
-- **Software livre** · Tenho interesse em projetos do ecossistema PHP, como o LibreSign.
+- **Software livre** · Tenho interesse em projetos do ecossistema PHP.
 
 ## Ensino e comunidade
 
